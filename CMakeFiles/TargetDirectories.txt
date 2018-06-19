@@ -1,0 +1,3 @@
+/home/pi/Documents/traffic_signs/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/traffic_signs/CMakeFiles/edit_cache.dir
+/home/pi/Documents/traffic_signs/CMakeFiles/Detect.dir
